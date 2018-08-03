@@ -1,0 +1,13 @@
+c:\users\790232\source\repos\GroupProjectForms\GroupProjectForms\bin\Debug\GroupProjectForms.exe.config
+c:\users\790232\source\repos\GroupProjectForms\GroupProjectForms\bin\Debug\GroupProjectForms.exe
+c:\users\790232\source\repos\GroupProjectForms\GroupProjectForms\bin\Debug\GroupProjectForms.pdb
+c:\users\790232\source\repos\GroupProjectForms\GroupProjectForms\obj\Debug\GroupProjectForms.csprojAssemblyReference.cache
+c:\users\790232\source\repos\GroupProjectForms\GroupProjectForms\obj\Debug\GroupProjectForms.Properties.Resources.resources
+c:\users\790232\source\repos\GroupProjectForms\GroupProjectForms\obj\Debug\GroupProjectForms.csproj.GenerateResource.cache
+c:\users\790232\source\repos\GroupProjectForms\GroupProjectForms\obj\Debug\GroupProjectForms.csproj.CoreCompileInputs.cache
+c:\users\790232\source\repos\GroupProjectForms\GroupProjectForms\obj\Debug\GroupProjectForms.exe
+c:\users\790232\source\repos\GroupProjectForms\GroupProjectForms\obj\Debug\GroupProjectForms.pdb
+C:\Users\790232\source\repos\GroupProjectForms\GroupProjectForms\obj\Debug\GroupProjectForms.TravelExperts.resources
+C:\Users\790232\source\repos\GroupProjectForms\GroupProjectForms\obj\Debug\GroupProjectForms.frmAddModifyPackage.resources
+C:\Users\790232\source\repos\GroupProjectForms\GroupProjectForms\obj\Debug\GroupProjectForms.frmAddModifySuppliers.resources
+C:\Users\790232\source\repos\GroupProjectForms\GroupProjectForms\obj\Debug\GroupProjectForms.frmAddModifyProducts.resources
